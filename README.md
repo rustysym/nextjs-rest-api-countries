@@ -57,5 +57,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Emre Kalfa](UI and code improvements)
+- Website - [Emre Kalfa](https://emrekalfa.vercel.app)
 - Frontend Mentor - [@rustysym](https://www.frontendmentor.io/profile/rustysym)
